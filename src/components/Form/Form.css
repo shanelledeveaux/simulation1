@@ -1,0 +1,16 @@
+
+.form-container{
+    background-color: #3AD886;
+    height: 400px;
+    width: 300px;
+    position:fixed;
+    float: right;
+    top: 6em;
+    right: 2em;
+    border-radius: 7px;
+  }
+
+  .input1{
+      padding-right: 10px;
+  }
+
